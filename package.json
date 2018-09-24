@@ -1,0 +1,24 @@
+{
+  "name": "a-z",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitendermittal8697/A-Z.git"
+  },
+  "author": "Jitender Mittal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitendermittal8697/A-Z/issues"
+  },
+  "homepage": "https://github.com/jitendermittal8697/A-Z#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "multer": "^1.3.1"
+  }
+}
